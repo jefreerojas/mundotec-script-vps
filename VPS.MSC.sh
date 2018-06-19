@@ -1,8 +1,8 @@
 #!/bin/bash
-echo -e "\033[0;34m✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️\033[0m"
-echo -e "\033[1;33m               Felipe Couoh"
-echo -e "\033[0;34m✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️\033[0m"
-tput setaf 3 ; tput bold ; read -n 1 -s -p "PRESIONE CON ESTILO TECLA STAR PERÚANO..." ; echo "" ; echo "" ; tput sgr0
+echo -e "\033[0;34m============================✴=====================================================================\033[0m"
+echo -e "\033[1;33m               MundoTec"
+echo -e "\033[0;34m============================✴=====================================================================\033[0m"
+tput setaf 3 ; tput bold ; read -n 1 -s -p "Presione Empezar" ; echo "" ; echo "" ; tput sgr0
 # ACTUALIZACIÓN #
 clear
 echo -e "\033[0;35m-[ 00% ]\033[0m"
@@ -28,7 +28,7 @@ rm VPS.MSC.sh
 clear
 # INSTALANDO COMPONENTES #
 echo -e "\033[0;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%️️\033[1;33m"
-figlet ..MSC PERU..
+figlet ..MundoTec.
 echo -e "\033[0;34m%%%%%%%%%%%%%%%%%%%%%%%%%️️%%%%%%%%%%%%%%%%%%%%%%%%%%%\033[0m"
 sleep 2
 tput setaf 3 ; tput bold ; echo "                  INSTALANDO MENU"; tput sgr0
@@ -105,12 +105,12 @@ tput setaf 3 ; tput bold ; echo "            INSTALANDO PYTHON3 APN BITEL"; tput
 sleep 2
 clear
 echo -e "\033[0;34m-----------------------------------------------\033[0m"
-echo -e "\033[1;33m                  Piratas Informaticos MX \033[0m"
-echo -e "\033[1;36m             INSTALACIÓN TERMINADO \033[1;36m"
+echo -e "\033[1;33m                  \033[0m"
+echo -e "\033[1;36m             INSTALACIÓN TERMINADA \033[1;36m"
 echo -e "\033[0;34m-----------------------------------------------\033[0;34m"
 figlet MSC PERU
 echo -e "\033[0;34m-----------------------------------------------\033[0m"
-echo -e "\033[1;33m                DIGITE[ MENU ] \033[0m"
+echo -e "\033[1;33m                APRETA[ MENU ] \033[0m"
 echo -e "\033[1;36m              PARA VER COMANDOS \033[1;36m"
-echo -e "\033[1;33m   PARA INGRESAR AL MENU DIGITE [ MENU ]\033[0m"
+echo -e "\033[1;33m   PARA INGRESAR AL MENU APRETA [ MENU ]\033[0m"
 echo -e "\033[0;34m-----------------------------------------------\033[0m"
