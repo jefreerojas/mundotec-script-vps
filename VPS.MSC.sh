@@ -1,6 +1,6 @@
 #!/bin/bash
 echo -e "\033[0;34m✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️\033[0m"
-echo -e "\033[1;33m               Mundo Tec"
+echo -e "\033[1;33m               Felipe Couoh"
 echo -e "\033[0;34m✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️✴️\033[0m"
 tput setaf 3 ; tput bold ; read -n 1 -s -p "PRESIONE CON ESTILO TECLA STAR PERÚANO..." ; echo "" ; echo "" ; tput sgr0
 # ACTUALIZACIÓN #
@@ -28,11 +28,11 @@ rm VPS.MSC.sh
 clear
 # INSTALANDO COMPONENTES #
 echo -e "\033[0;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%️️\033[1;33m"
-figlet ..Mundo Tec..
+figlet ..MSC PERU..
 echo -e "\033[0;34m%%%%%%%%%%%%%%%%%%%%%%%%%️️%%%%%%%%%%%%%%%%%%%%%%%%%%%\033[0m"
 sleep 2
 tput setaf 3 ; tput bold ; echo "                  INSTALANDO MENU"; tput sgr0
-    wget https://raw.githubusercontent.com/jefreerojas/mundotec-script-vps/master/menu -O /bin/menu 1> /dev/null 2> /dev/stdout
+    wget https://raw.githubusercontent.com/diesel09/felipes/master/menu -O /bin/menu 1> /dev/null 2> /dev/stdout
     chmod +x /bin/menu
 sleep 2
 tput setaf 3 ; tput bold ; echo "       INSTALANDO ADMINISTRADOR DE USUARIOS"; tput sgr0
