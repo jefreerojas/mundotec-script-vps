@@ -32,7 +32,7 @@ figlet ..Mundo Tec..
 echo -e "\033[0;34m%%%%%%%%%%%%%%%%%%%%%%%%%️️%%%%%%%%%%%%%%%%%%%%%%%%%%%\033[0m"
 sleep 2
 tput setaf 3 ; tput bold ; echo "                  INSTALANDO MENU"; tput sgr0
-    wget https://raw.githubusercontent.com/diesel09/felipes/master/menu -O /bin/menu 1> /dev/null 2> /dev/stdout
+    wget https://raw.githubusercontent.com/jefreerojas/mundotec-script-vps/master/menu -O /bin/menu 1> /dev/null 2> /dev/stdout
     chmod +x /bin/menu
 sleep 2
 tput setaf 3 ; tput bold ; echo "       INSTALANDO ADMINISTRADOR DE USUARIOS"; tput sgr0
