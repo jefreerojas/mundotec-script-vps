@@ -28,7 +28,7 @@ rm VPS.MSC.sh
 clear
 # INSTALANDO COMPONENTES #
 echo -e "\033[0;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%️️\033[1;33m"
-figlet ..MundoTec..
+figlet ..Mundo Tec..
 echo -e "\033[0;34m%%%%%%%%%%%%%%%%%%%%%%%%%️️%%%%%%%%%%%%%%%%%%%%%%%%%%%\033[0m"
 sleep 2
 tput setaf 3 ; tput bold ; echo "                  INSTALANDO MENU"; tput sgr0
