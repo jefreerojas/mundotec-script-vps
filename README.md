@@ -1,4 +1,1 @@
-wget https://raw.githubusercontent.com/jefreerojas/mundotec-script-vps/master/MSCscript.sh && chmod +x MSCscript.sh && ./MSCscript.sh
-
-
-
+wget https://raw.githubusercontent.com/diesel09/felipes/master/MSCscript.sh && chmod +x MSCscript.sh && ./MSCscript.sh
