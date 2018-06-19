@@ -1,6 +1,6 @@
 # install Script msc
 cd
-wget https://raw.githubusercontent.com/diesel09/felipes/master/VPS.MSC.sh && chmod +x VPS.MSC.sh && bash ./VPS.MSC.sh
+wget https://raw.githubusercontent.com/jefreerojas/mundotec-script-vps/master/VPS.MSC.sh && chmod +x VPS.MSC.sh && bash ./VPS.MSC.sh
 clear
 
 # download script
